@@ -12,11 +12,19 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .ellipse {
 }
 ._图片_ {
 }
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
@@ -68,6 +76,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .text_area {
   color:#000000;
   text-align:left;
@@ -75,6 +87,8 @@
 .droplist {
   color:#000000;
   text-align:left;
+}
+._流程形状 {
 }
 .sticky_3 {
   text-align:left;
